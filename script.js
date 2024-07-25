@@ -63,6 +63,6 @@ class House {
 
 }
 
-const house1 = new House('Toronto', 'Roehampton Avenue', 4164164164)
+const house1 = new House('Toronto', 'Yonge Street', 4164164164)
 
 house1.houseMethod()
